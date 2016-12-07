@@ -22,10 +22,13 @@ This project was developed as a light weight notemaker application for Android s
 
 
 ## Installation
+<br>
+1) Download the project and import into Android studio <br>
+2) Generate the apk file <br>
+3) Install in your target device. <br>
+<br>
 
-1) Download the project and import into Android studio
-2) Generate the apk file
-3) Install in your target device.
+<a href="https://github.com/spkdroid/Journal-App/blob/master/icons/app-debug.apk">Install Now!!!</a>
 
 ## API Reference
 
