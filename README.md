@@ -11,8 +11,10 @@ The application provides you with a list of notes in a neat and clean fashion. T
 .
 ## Motivation
 <img src="https://github.com/spkdroid/Journal-App/blob/master/icons/purple.png"  align="left" height="125" width="125" >
-A simple notemaker application to your Android device. <br>
-Light weight.
+
+This project was developed as a light weight notemaker application for Android supported devices.
+
+
 
 ## Installation
 
