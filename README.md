@@ -59,7 +59,7 @@ The project does not support any API or cloud support. But will be supported in 
 
 Just submit a pull request.
 
-## Authors
+## Author
 
 * **Ramkumar Velmurugan** - [Ramkumar Velmurugan](https://github.com/spkdroid/CV/)
 
