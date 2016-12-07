@@ -1,5 +1,5 @@
 ## Journal App
-
+<img src="https://github.com/spkdroid/Journal-App/blob/master/icons/redicon.png"  align="left" height="125" width="125" >
 Journal App is a simple note making application for your android device. The Journal App is built on top of sqlite database and provides all the basic functions of update,insert and delete. The application can be configured easily or can be added as plugin to other android application. 
 
 ## Motivation
