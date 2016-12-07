@@ -1,7 +1,5 @@
 package dija.secretjournal;
 
-import com.spkd.secretjournal.floatingbutton.FloatingActionButton;
-import com.spkd.secretjournal.sqlitehelper.LogTableHelper;
 
 import android.support.v7.app.ActionBarActivity;
 import android.app.AlertDialog;
@@ -22,6 +20,9 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 import android.widget.Toast;
+
+import dija.secretjournal.floatingbutton.FloatingActionButton;
+import dija.secretjournal.sqlitehelper.LogTableHelper;
 
 public class MenuScreen extends ActionBarActivity implements OnClickListener, OnLongClickListener {
 

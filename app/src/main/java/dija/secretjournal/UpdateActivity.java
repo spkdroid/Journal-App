@@ -1,6 +1,5 @@
 package dija.secretjournal;
 
-import com.spkd.secretjournal.sqlitehelper.LogTableHelper;
 
 import android.support.v7.app.ActionBarActivity;
 import android.content.Intent;
@@ -13,6 +12,8 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import dija.secretjournal.sqlitehelper.LogTableHelper;
 
 public class UpdateActivity extends ActionBarActivity  {
 

@@ -3,8 +3,6 @@ package dija.secretjournal;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import com.spkd.secretjournal.floatingbutton.FloatingActionButton;
-import com.spkd.secretjournal.sqlitehelper.LogTableHelper;
 
 import android.support.v7.app.ActionBarActivity;
 import android.content.Intent;
@@ -18,6 +16,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import dija.secretjournal.MenuScreen;
+import dija.secretjournal.sqlitehelper.LogTableHelper;
 
 public class MainActivity extends ActionBarActivity implements OnClickListener {
 

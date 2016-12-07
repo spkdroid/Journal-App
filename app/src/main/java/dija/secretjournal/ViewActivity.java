@@ -1,6 +1,5 @@
 package dija.secretjournal;
 
-import com.spkd.secretjournal.sqlitehelper.LogTableHelper;
 
 import android.support.v7.app.ActionBarActivity;
 import android.content.Intent;
@@ -10,6 +9,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import dija.secretjournal.sqlitehelper.LogTableHelper;
 
 public class ViewActivity extends ActionBarActivity {
 
