@@ -32,7 +32,7 @@ Android 5.0 and above
 <br>
 
 ## Deployment
-
+<img src="https://github.com/spkdroid/Journal-App/blob/master/icons/love.png" align="right" height="125" width="125" >
 Please enable installation from "unknow source" in your settings to install the apk file. <br>
 Please change the minimum SDK version in the gradle file to support the lower android versions. <br>
 <br>
