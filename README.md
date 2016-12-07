@@ -13,11 +13,11 @@ The application provides you with a list of notes in a neat and clean fashion. T
 <img src="https://github.com/spkdroid/Journal-App/blob/master/icons/purple.png"  align="left" height="125" width="125" >
 
 This project was developed as a light weight notemaker application for Android supported devices.
-
-1) Light Weight
-2) Supports Emoji
-3) Sqlite support
-
+<br>
+1) Light Weight <br>
+2) Supports Emoji<br>
+3) Sqlite support<br>
+<br>
 
 
 
