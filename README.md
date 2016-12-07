@@ -23,13 +23,28 @@ This project was developed as a light weight notemaker application for Android s
 2) Generate the apk file <br>
 3) Install in your target device. <br>
 <br>
-
+<br><br>
 <a href="https://github.com/spkdroid/Journal-App/blob/master/icons/app-debug.apk">Download Now!!!</a>
 
 
+### Prerequisities
 
+```
+Android Studio
+Android 5.0 and above
+```
 
+## Deployment
 
+Please enable installation from "unknow source" in your settings to install the apk file.
+
+Please change the minimum SDK version in the gradle file to support the lower android versions.
+
+## Built With
+
+Android Studio
+Gradle
+Android SDK 5.0 and above
 
 ## API Reference
 
@@ -40,18 +55,18 @@ The project does not support any API or cloud support. But will be supported in 
 <img src="https://github.com/spkdroid/Journal-App/blob/master/icons/screen.png" align="left" height="500" width="275" >
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+## Contributing
+
+Just submit a pull request.
+
+## Authors
+
+* **Ramkumar Velmurugan** - [Ramkumar Velmurugan](https://github.com/spkdroid/CV/)
+
 ## License
 
-Copyright [2015] [Apache Version 2.0]
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/spkdroid/Journal-App/blob/master/License.md) file for details
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
