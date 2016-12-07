@@ -52,7 +52,7 @@ The project does not support any API or cloud support. But will be supported in 
 
 <img src="https://github.com/spkdroid/Journal-App/blob/master/icons/screen.png" align="left" height="500" width="275" >
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ## Contributing
