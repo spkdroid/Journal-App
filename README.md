@@ -3,10 +3,6 @@
 Journal App is a simple note making application for your android device. 
 The application provides you with a list of notes in a neat and clean fashion. The Journal application can be added as a plugin into other application to provide note making functionality. All the entries are stored in the sqlite database inside the application. The Journal application provides all the basic CRUD operation.
 <br><br>
-<br>
-<br>
-<br><br>
-
 
 ## Feature
 <img src="https://github.com/spkdroid/Journal-App/blob/master/icons/purple.png"  align="left" height="125" width="125" >
